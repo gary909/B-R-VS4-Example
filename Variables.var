@@ -1,0 +1,8 @@
+VAR
+	nCounter : INT := 0;   
+	bButtonPressed : BOOL := FALSE;
+	bButtonMinPressed : BOOL := FALSE;
+	bDisplayText   : BOOL := FALSE;
+	sMessage       : STRING := '';
+	dtCurrentTime : TIME;
+END_VAR
